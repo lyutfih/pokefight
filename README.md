@@ -2,6 +2,10 @@
 
 A Pokemon-themed battle game where players face off against computer-controlled Pokemon using a strategic battle algorithm.
 
+## Live Demo
+
+[Pokefight Live Demo](https://pokefight-puce.vercel.app/)
+
 ## Project Structure
 
 - `client/` - React frontend with Tailwind CSS
